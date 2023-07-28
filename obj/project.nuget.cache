@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "75/nC8WqyeNiDRJsB0+jpHabswdc2FuCU2vZoidiZxwn5fztpqEq4jFGbNitvzitAmD7pfrThUowwoni+xwG8g==",
+  "success": true,
+  "projectFilePath": "/home/adams-florisbal/senai/LHPet/LHPet.csproj",
+  "expectedPackageFiles": [
+    "/home/adams-florisbal/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
